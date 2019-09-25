@@ -88,4 +88,5 @@ the right in Fig. below represents the output of a Gaussian filter on the origin
 
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex1.png)
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex2.png)
+
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex12 RESULT worn-out FONT diff.png)
