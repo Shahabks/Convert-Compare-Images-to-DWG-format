@@ -1,4 +1,4 @@
-# Convert-Image-to-DWG-format
+# Convert-Compare-Image-to-DWG-format
 ## Converting a raster or a vector image to DWG 
 ## Distance-based functions for image comparison
 
