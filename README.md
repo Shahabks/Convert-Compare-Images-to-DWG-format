@@ -3,8 +3,8 @@
 ## Distance-based functions for image comparison
 
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/left.png)
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/right.png)
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/leftright.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/right.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/leftright.png)
 
 
 ## How to convert to DWG
@@ -22,7 +22,7 @@ human understanding being the driving force behind it—conversion software won�
 and will just ignore it, whereas you have the knowledge of what the drawing should look like. This means that you can work with 
 images of any quality, because you’re familiar with the drawing or you can make a well-informed guess.
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/manual-tracing-raster1.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/manual-tracing-raster1.png)
 
 There are a few setbacks to this process, however, as it can be very long and strenuous. The more complex the image is, the more 
 time it will take. Plus, despite the higher level of understanding, humans are still rather inaccurate—a computer is efficient and 
@@ -34,7 +34,7 @@ curves, polygons and other vector entities. It has many advantages over manual t
 takes mere seconds to convert! Meanwhile, OCR tools are perfect for dealing with any text that may appear in your PDF file, and can 
 convert it to editable text.
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/raster-to-vector-conversion-300x207.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/raster-to-vector-conversion-300x207.png)
 
 If you’re at the mercy of tight deadlines, and you’re working with relatively simple raster images, it’s definitely beneficial to 
 make use of automatic conversion software. 
@@ -72,13 +72,13 @@ them as you would any other raster format, then save as a DWG.
 The image difference of two images is defined as the sum of the absolute difference at each pixel. The first image It is analyzed 
 with a second image,It–T, at a temporal distance T. The difference value is defined as
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/1.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/1.png)
 
 where M is the resolution or number of pixels in the image. This method for image difference is noisy and extremely sensitive to 
 camera motion and image degradation. When applied to subregions of the image,D(t) is less noisy and may be used as a more reliable 
 parameter for image difference.
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/2.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/2.png)
 
 Ds(t) is the sum of the absolute difference in a subregion of the image, where S represents the starting position for a particular 
 region and n represents the number of subregions.
@@ -86,7 +86,7 @@ region and n represents the number of subregions.
 We may also apply some form of filtering to eliminate excess noise in the image and subsequent difference. For example, the image on
 the right in Fig. below represents the output of a Gaussian filter on the original image on the left.
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/ex1.png)
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/ex2.png)
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/ex12 RESULT worn-out FONT diff
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex1.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex2.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/ex12 RESULT worn-out FONT diff
 .png)
