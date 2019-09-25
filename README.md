@@ -2,7 +2,7 @@
 ## Converting a raster or a vector image to DWG 
 ## Distance-based functions for image comparison
 
-![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/left.png)
+![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/blob/master/Images/left.png)
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/right.png)
 ![Image](https://github.com/Shahabks/Convert-Image-to-DWG-format/tree/master/Images/leftright.png)
 
